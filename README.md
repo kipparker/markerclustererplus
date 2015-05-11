@@ -2,6 +2,13 @@
 
 ## Warning!
 
+Tiny changes on this forked version:
+
+- Returns event from the "click" handler
+- module.exports MarkerClusterer
+
+## Warning!
+
 The following files have been deprecated and will be removed in the next release:
 * [src/markerclusterer.min.js](https://github.com/mahnunchik/markerclustererplus/blob/master/src/markerclusterer.min.js)
 * [src/markerclusterer_packed.js](https://github.com/mahnunchik/markerclustererplus/blob/master/src/markerclusterer_packed.js)
