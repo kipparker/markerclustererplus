@@ -3,6 +3,10 @@
  * @version 2.1.1 [November 4, 2013]
  * @author Gary Little
  * @fileoverview
+ * Tiny change to return events from clicks by kipparker
+ * Also adds model.export
+ * https://github.com/kipparker/markerclustererplus/
+ * <p>
  * The library creates and manages per-zoom-level clusters for large amounts of markers.
  * <p>
  * This is an enhanced V3 implementation of the
@@ -1671,3 +1675,5 @@ if (typeof String.prototype.trim !== 'function') {
     return this.replace(/^\s+|\s+$/g, '');
   };
 }
+
+module.exports = MarkerClusterer;
