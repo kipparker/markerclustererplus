@@ -1,8 +1,8 @@
 # MarkerClustererPlus
 
-## Warning!
+## Changes on this fork
 
-Tiny changes on this forked version:
+Tiny changes:
 
 - Returns event from the "click" handler
 - module.exports MarkerClusterer
